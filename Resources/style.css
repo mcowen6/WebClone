@@ -732,6 +732,8 @@ section .nose-to-tail-guide{
     font-family: "Source Sans Pro";
     border: none;
     grid-column: 2;
+    position: relative;
+    bottom: 100px;
 }
 
 .paul {
